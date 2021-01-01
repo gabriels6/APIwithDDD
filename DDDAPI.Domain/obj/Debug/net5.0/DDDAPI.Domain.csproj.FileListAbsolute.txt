@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Domain\bin\Debug\net5.0\DDDAPI.Domain.deps.json
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Domain\bin\Debug\net5.0\DDDAPI.Domain.dll
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Domain\bin\Debug\net5.0\ref\DDDAPI.Domain.dll
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Domain\bin\Debug\net5.0\DDDAPI.Domain.pdb
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Domain\obj\Debug\net5.0\DDDAPI.Domain.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Domain\obj\Debug\net5.0\DDDAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Domain\obj\Debug\net5.0\DDDAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Domain\obj\Debug\net5.0\DDDAPI.Domain.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Domain\obj\Debug\net5.0\DDDAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Domain\obj\Debug\net5.0\DDDAPI.Domain.dll
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Domain\obj\Debug\net5.0\ref\DDDAPI.Domain.dll
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Domain\obj\Debug\net5.0\DDDAPI.Domain.pdb

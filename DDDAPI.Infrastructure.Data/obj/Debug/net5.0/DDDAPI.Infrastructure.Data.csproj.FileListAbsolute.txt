@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\bin\Debug\net5.0\DDDAPI.Domain.dll
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\obj\Debug\net5.0\DDDAPI.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\obj\Debug\net5.0\DDDAPI.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\obj\Debug\net5.0\DDDAPI.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\obj\Debug\net5.0\DDDAPI.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\bin\Debug\net5.0\DDDAPI.Infrastructure.Data.deps.json
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\bin\Debug\net5.0\DDDAPI.Infrastructure.Data.dll
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\bin\Debug\net5.0\ref\DDDAPI.Infrastructure.Data.dll
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\bin\Debug\net5.0\DDDAPI.Infrastructure.Data.pdb
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\bin\Debug\net5.0\DDDAPI.Domain.pdb
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\obj\Debug\net5.0\DDDAPI.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\obj\Debug\net5.0\DDDAPI.Infrastructure.Data.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\obj\Debug\net5.0\DDDAPI.Infrastructure.Data.dll
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\obj\Debug\net5.0\ref\DDDAPI.Infrastructure.Data.dll
+C:\Users\Gabriel\source\repos\ApiWithDDD\DDDAPI.Infrastructure.Data\obj\Debug\net5.0\DDDAPI.Infrastructure.Data.pdb
